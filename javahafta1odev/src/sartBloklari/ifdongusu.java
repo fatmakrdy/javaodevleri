@@ -1,4 +1,4 @@
-package donguler;
+package sartBloklari;
 
 public class ifdongusu {
 
